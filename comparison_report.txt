@@ -1,0 +1,146 @@
+------------------------------------------
+RF: 124    CF: 112    similarity: 81.20%
+---------- ---------- --------------------
+DBE01                 DBEOI
+DBE02      DBE02     
+DBE03      DBE03     
+DBE05      DBE05     
+DBE06      DBE06     
+DBE07      DBE07     
+DBE08      DBE08     
+DBE101                DBEIOI
+DBE102     DBE102    
+DBE102     DBE102    
+DBE103     DBE103    
+DBE12      DBE12     
+DBE12      DBE12     
+DBE13      DBE13     
+DBE14      DBE14     
+DBE16      DBE16     
+DBE17      DBE17     
+DBE19                 DBEJ19, DBE15, DBE2
+DBE20      DBE20     
+DBE23                 DBE2, DBE32, DBEJ27
+DBE24      DBE24     
+DBE25      DBE25     
+DBE26      DBE26     
+DBE27      DBE27     
+DBE29                 DBE2, DBE32, DBEJ27
+DBE30      DBE30     
+DBE300     DBE300    
+DBE301     DBE301    
+DBE302     DBE302    
+DBE303     DBE303    
+DBE304     DBE304    
+DBE305     DBE305    
+DBE306     DBE306    
+DBE307                DBEJ07, DBE32, DBEJ27
+DBE308     DBE308    
+DBE309                DBE32, DBEJ20, DBEJ19
+DBE31      DBE31     
+DBE310     DBE310    
+DBE311                DBE32, DBE15, DBEJ19
+DBE312     DBE312    
+DBE313     DBE313    
+DBE314     DBE314    
+DBE315     DBE315    
+DBE316     DBE316    
+DBE317     DBE317    
+DBE318                DBE32, DBE15, DBEJ19
+DBE319     DBE319    
+DBE320     DBE320    
+DBE322                DBE32, DBE2, DBEJ27
+DBE323     DBE323    
+DBE324     DBE324    
+DBE325     DBE325    
+DBE326     DBE326    
+DBE327                DBE32, DBEJ27, DBE2
+DBE328     DBE328    
+DBE329     DBE329    
+DBE33      DBE33     
+DBE330                DBE3J3, DBE32, DBEJ20
+DBE333     DBE333    
+DBE334     DBE334    
+DBE335     DBE335    
+DBE336                DBE3J3, DBE32, DBE2
+DBE34      DBE34     
+DBE35      DBE35     
+DBE35      DBE35     
+DBE37                 DBE32, DBEJ27, DBEJ07
+DBE40      DBE40     
+DBE41      DBE41     
+DBE43                 DBE32, DBE3J3, DBE2
+DBE44      DBE44     
+DBE45      DBE45     
+DBE46                 DBE2, DBEgg, DBEIO
+DBE47      DBE47     
+DBE48      DBE48     
+DBE49      DBE49     
+DBE50      DBE50     
+DBE51      DBE51     
+DBE52      DBE52     
+DBE52      DBE52     
+DBE53      DBE53     
+DBE54      DBE54     
+DBE55      DBE55     
+DBE56      DBE56     
+DBE57      DBE57     
+DBE58      DBE58     
+DBE59      DBE59     
+DBE60      DBE60     
+DBE61      DBE61     
+DBE62      DBE62     
+DBE63      DBE63     
+DBE64      DBE64     
+DBE65      DBE65     
+DBE66      DBE66     
+DBE67      DBE67     
+DBE68      DBE68     
+DBE69      DBE69     
+DBE70      DBE70     
+DBE71      DBE71     
+DBE72      DBE72     
+DBE73      DBE73     
+DBE74      DBE74     
+DBE75      DBE75     
+DBE75      DBE75     
+DBE76      DBE76     
+DBE76      DBE76     
+DBE77      DBE77     
+DBE80      DBE80     
+DBE82                 DBE2, DBE32, DBEJ27
+DBE83      DBE83     
+DBE83      DBE83     
+DBE84      DBE84     
+DBE85      DBE85     
+DBE86      DBE86     
+DBE87      DBE87     
+DBE88      DBE88     
+DBE89                 DBEJ19, DBE2, DBEgg
+DBE90      DBE90     
+DBE93                 DBE32, DBEJ19, DBE3J3
+DBE94      DBE94     
+DBE95                 DBE15, DBEJJ5, DBEJ25
+DBE96      DBE96     
+DBE97      DBE97     
+DBE98                 DBEJ19, DBE2, DBEgg
+DBE99                 DBEgg
+------------------------------------------
+           DBE15      DBE15     
+           DBE2       DBE2      
+           DBE32      DBE32     
+(DBE313)   DBE3J3    
+           DBEIO      DBE10     
+(DBE101)   DBEIOI    
+           DBEJ07     DBE107    
+           DBEJ19     DBE119    
+           DBEJ20     DBE120    
+           DBEJ25     DBE125    
+           DBEJ27     DBE127    
+           DBEJJ5     DBE115    
+(DBE01)    DBEOI     
+(DBE99)    DBEgg     
+------------------------------------------
+RF: 124    CF: 112    similarity: 83.76%
+------------------------------------------
+11 candidates could not be numerized:
