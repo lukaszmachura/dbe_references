@@ -1,6 +1,12 @@
-*pdf
+*.pdf
 *png
 *jpg
 *jpeg
 *gif
 *svg
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
